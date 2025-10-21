@@ -1,4 +1,13 @@
-## Hi there 👋
+<html>
+<body style="background:#0d0d0d;color:#fff;
+font-family:Helvetica,Arial;text-align:center;padding-top:10%">
+<img src="YOUR_LOGO_URL_HERE" style="max-width:300px"><br><br>
+Unveiling the full spectrum of biological truth through innovation<br><br>
+<a href="mailto:alex.mermaz@vincispectra.com" style="color:#00bcd4;text-decoration:none;">
+alex.mermaz@vincispectra.com</a><br><br>
+<small>© 2025 Vinci Spectra Ltd</small>
+</body>
+</html>
 
 <!--
 **VicciSpectra/viccispectra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
